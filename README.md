@@ -11,3 +11,4 @@ which items bring in the most profit,and
 where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
 Solution
 They need proper reports and simpleinsights to understand their sales,customers, and product performancebetter.
+<img width="259" height="195" alt="image" src="https://github.com/user-attachments/assets/48238189-866c-44c9-8515-26cbf5336c70" />
